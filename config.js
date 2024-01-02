@@ -26,15 +26,15 @@ import moment from 'moment-timezone'
 /*==============USER-INFO==============*/
 global.owner = [
   ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['27787896221', 'MamasBoy💖💘🔥', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['27787896221','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['27787896221','']
+global.nomorbot = '27787896221' //Change it to your own
+global.nomorown = '27787896221' //Change it to your own
+global.namebot = 'X-GEN-MD' //change it to your own
+global.nameown = 'MamasBoy Ofc💘🖤' // change it to your own
 
 //*============= ==============*/
 
@@ -121,7 +121,7 @@ global.APIKeys = { // APIKey Here
 global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
+global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +27 78 789 6221`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
